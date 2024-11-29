@@ -1,0 +1,34 @@
+span{
+    background-color: black;
+}
+button{
+    color: white;
+    background-color: orange;
+    margin-right: 21cm;
+    padding-bottom: 15px;
+    padding-top: 14px;
+    text-align: center;
+    width: 4cm;
+    margin-left: 2cm;
+}
+div{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.Linkedin{
+    margin-right: 5cm;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+ .seconddiv{
+            margin-top:-0.5cm;
+           display: flex;
+           justify-content: space-between;
+           background-color: white;
+           margin-top: 5px;
+} 
